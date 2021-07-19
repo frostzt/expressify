@@ -1,0 +1,23 @@
+{
+  "name": "expressify",
+  "version": "0.0.1",
+  "description": "A simple CLI tool for bootstrapping Express applications quickly and easily, while also maintaining good style and practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostzt/expressify.git"
+  },
+  "keywords": [
+    "cli",
+    "expressjs"
+  ],
+  "author": "frostzt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frostzt/expressify/issues"
+  },
+  "homepage": "https://github.com/frostzt/expressify#readme"
+}
