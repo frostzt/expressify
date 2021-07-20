@@ -1,3 +1,3 @@
-export function cli(args: any) {
+export function cli(args: string[]) {
   console.log(args);
 }

@@ -32,6 +32,7 @@
     "nodemon": "^2.0.12"
   },
   "dependencies": {
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "inquirer": "^8.1.2"
   }
 }
